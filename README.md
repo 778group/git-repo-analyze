@@ -47,6 +47,10 @@ Generates an HTML file (`git-analysis-report.html`) with:
 - Commit quality grading
 - Monthly commit velocity chart
 
+## Inspiration
+
+This skill is inspired by the WeChat article: [《我在阅读任何代码之前运行的 Git 命令》](https://mp.weixin.qq.com/s/cVCjb246T31eCwmYRORsQw)
+
 ## License
 
 MIT
