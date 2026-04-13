@@ -13,7 +13,7 @@ Generate a comprehensive engineering-style HTML report analyzing Git repository 
 
 ```bash
 # Install the skill
-npx skills add git-repo-analyze
+npx skills add 778group/git-repo-analyze
 
 # Then use in Claude Code
 git-analyze
