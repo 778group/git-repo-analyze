@@ -1,0 +1,28 @@
+{
+  "name": "git-repo-analyze",
+  "version": "1.0.0",
+  "description": "Generate a comprehensive engineering-style HTML report analyzing Git repository health and activity patterns",
+  "main": "scripts/analyze.py",
+  "scripts": {
+    "analyze": "python3 scripts/analyze.py",
+    "analyze:help": "python3 scripts/analyze.py --help"
+  },
+  "keywords": [
+    "git",
+    "analysis",
+    "report",
+    "repository",
+    "bus-factor",
+    "commit-quality"
+  ],
+  "author": "ylfeng250",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "scripts/",
+    "SKILL.md",
+    "README.md"
+  ]
+}
