@@ -14,10 +14,10 @@ After installation, you can use the skill in Claude Code:
 
 ```bash
 # Analyze current repository
-git-analyze
+git-repo-analyze
 
 # Analyze specific repository
-git-analyze /path/to/repo
+git-repo-analyze /path/to/repo
 ```
 
 ## Features

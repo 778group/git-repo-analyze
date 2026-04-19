@@ -16,10 +16,10 @@ Generate a comprehensive engineering-style HTML report analyzing Git repository 
 npx skills add 778group/git-repo-analyze
 
 # Then use in Claude Code
-git-analyze
+git-repo-analyze
 
 # Analyze specific repository
-git-analyze /path/to/repo
+git-repo-analyze /path/to/repo
 ```
 
 ### Direct Script Usage
